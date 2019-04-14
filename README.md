@@ -1,5 +1,7 @@
 Firebase の事始めとして https://github.com/po3rin/vue-golang-fireauth をなぞってみる。  
-Vue CLI を v3 でやってたり Go のパッケージ管理に Modules を使ったりしてるので本家と少し差分がある。
+Vue CLI を v3 でやってたり Go のパッケージ管理に Modules を使ったりしてるので本家のコードから少し差分がある。
+
+## メモ
 
 ### Firebase
 
